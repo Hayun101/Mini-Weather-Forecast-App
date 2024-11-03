@@ -1,0 +1,12 @@
+admin
+images
+text
+game
+blog
+social
+effect
+color
+self
+video
+news
+
